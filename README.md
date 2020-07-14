@@ -1,6 +1,6 @@
 __Currently__ working on publishing the first stable release of [culori](https://github.com/Evercoder/culori), a JavaScript library for working with color.
 
-__Tools.__ [make PDFs out of web pages](https://github.com/danburzo/percollate) / [look in your clipboard](https://github.com/Evercoder/clipboard-inspector)
+__Tools.__ [make PDFs out of web pages](https://github.com/danburzo/percollate) / [look in your clipboard](https://github.com/Evercoder/clipboard-inspector) / [test DOM UI events and IMEs](https://github.com/danburzo/input-methods)
 
 __Resources.__ [my toolbox](https://github.com/danburzo/toolbox) / [Watch/Star/Fork](https://github.com/danburzo/watchstarfork) (currently only on GitHub)
 
