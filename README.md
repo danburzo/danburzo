@@ -1,9 +1,10 @@
 __Currently:__ working towards the first stable release of [culori](https://culorijs.org) ([repo](https://github.com/Evercoder/culori)), a JavaScript library for working with color.
 
-CLI tools: 
+CLI tools and libraries:
 
-* [percollate](https://github.com/danburzo/percollate), make PDFs from web pages;
-* (★ New!) [hred](https://github.com/danburzo/hred), reduce HTML to JSON.
+* [percollate](https://github.com/danburzo/percollate), turn web pages into readable PDF, EPUB, or HTML files;
+* [hred](https://github.com/danburzo/hred), reduce HTML to JSON with [qsx](https://github.com/danburzo/qsx), a query language based on CSS selectors;
+* [opsh](https://github.com/danburzo/opsh), parse command-line arguments.
 
 Browser tools:
 
@@ -20,7 +21,6 @@ Resources:
 
 Tiny libs: 
 
-* (★ New!) [qsx](https://github.com/danburzo/qsx), a query language based on CSS selectors;
 * [nano-i18n](https://github.com/danburzo/nano-i18n), an internationalization library implemented with tagged template literals;
 * [pubsub](https://github.com/Evercoder/pubsub), vintage pub-sub library;
 * [spune](https://github.com/danburzo/spune), spell numbers in Romanian.
