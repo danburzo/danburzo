@@ -10,6 +10,7 @@ CLI tools and libraries:
 
 Browser tools:
 
+* [vizor](https://llll.ro/tools/vizor) ([repo](https://github.com/llll-org/vizor)), a tiny front-end for OCR-ing text in images using the Google Vision API;
 * [clipboard-inspector](https://github.com/Evercoder/clipboard-inspector), peek into your clipboard;
 * [input-methods](https://github.com/danburzo/input-methods), a reference & playground for DOM UI events and IMEs;
 * [webcolors-cmyk](https://github.com/danburzo/webcolors-cmyk), CSS named colors converted to CMYK and back.
